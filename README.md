@@ -1,3 +1,3 @@
 # MineSweeper
 
-Finally Leanred how to play MineSweeper. 
+Finally learned how to play MineSweeper. 
